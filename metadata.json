@@ -1,0 +1,6 @@
+{
+  "name": "Aham All",
+  "description": "Wearable EEG headband and comprehension companion that maps daily focus peaks and simplifies hard-to-grasp passages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
